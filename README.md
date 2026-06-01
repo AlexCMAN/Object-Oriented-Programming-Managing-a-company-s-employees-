@@ -18,9 +18,12 @@ This repository features a C++ desktop application built to manage company struc
 
 You can run this project either using a command-line terminal or through an Integrated Development Environment (IDE).
 
-### Option 1: Using the Terminal (GCC/G++ Compiler)
+Open your preferred IDE.
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-   cd your-repository-name
+Select Open Project and navigate to the folder containing main.cpp.
+
+If using CMake, let the IDE load the CMakeLists.txt file automatically.
+
+Click the Build button (or press Ctrl+F9 / Ctrl+Shift+B).
+
+Click the Run button (green play icon) to launch the console application.
