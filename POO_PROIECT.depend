@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1768036160 source:c:\users\alexc\documents\poo\proiect_final_v2\poo_proiect\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1768234139 source:c:\users\alexc\documents\poo_proiect\poo_proiect\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
