@@ -18,7 +18,7 @@ This repository features a C++ desktop application built to manage company struc
 
 You can run this project either using a command-line terminal or through an Integrated Development Environment (IDE).
 
-Open your preferred IDE.
+Open your preferred IDE (CLion, Visual Studio, VS Code, or Code::Blocks).
 
 Select Open Project and navigate to the folder containing main.cpp.
 
